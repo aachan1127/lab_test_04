@@ -29,6 +29,7 @@ function App() {
 
   return (
     <>
+    <h1>デプロイチェック！</h1>
       <Form />
 
       {num === 0 && <h1>大吉</h1>}
